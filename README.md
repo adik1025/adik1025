@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   High school student in 
   <span style="color: #008000;"><strong>Boy Scouts</strong></span> and
   <span style="color: #8A2BE2;"><strong>band</strong></span>.
