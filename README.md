@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://adik1025.github.io/adi/">
+  <a href="https://github.com/adik1025">
     <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
   </a>
 </p>
